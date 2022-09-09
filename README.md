@@ -3,6 +3,7 @@
 # Built With:
 
 > ### `Python`
+> ### `beautifusoap`
 > ### `PostgreSQL` 
 > ### `Poetry`
 
