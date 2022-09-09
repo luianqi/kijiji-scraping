@@ -21,7 +21,7 @@ Poetry install
 ```
 3. Create a new PostgreSQL database
 
-4. In your terminal:
+ In your terminal:
 ```
 psql postgres
 CREATE DATABASE databasename
